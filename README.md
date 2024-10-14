@@ -8,7 +8,7 @@ This project provides the code, datasets, and configurations necessary to replic
 
 ## Repository Structure
 
-- `ACM/asterix-code.zip`: Contains the AsterixDB setup we used for the experiments.
+- `ACM/asterix-code.zip`: Contains the AsterixDB setup we used for the experiments. If it does not work use https://github.com/gvaghasiya02/asterixdb_gaurav/tree/Adaptivegroupby
 - `ACM/Experiments/`: Scripts for loading data and running experiments.
 - `ACM/32mb2nc2dpacmMetrics.csv`: Contains the results and metrics used in the paper.
 
